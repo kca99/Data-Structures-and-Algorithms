@@ -1,6 +1,8 @@
 \contentsline {section}{\numberline {1}Preface}{1}
 \contentsline {section}{\numberline {2}Running Time}{1}
-\contentsline {section}{\numberline {3}Data Structures}{1}
-\contentsline {subsection}{\numberline {3.1}Lists}{1}
-\contentsline {subsection}{\numberline {3.2}Stacks}{1}
-\contentsline {subsection}{\numberline {3.3}Queues}{1}
+\contentsline {subsection}{\numberline {2.1}Example: Printing an Array}{1}
+\contentsline {subsection}{\numberline {2.2}Example: Bubble Sort}{1}
+\contentsline {section}{\numberline {3}Data Structures}{2}
+\contentsline {subsection}{\numberline {3.1}Lists}{2}
+\contentsline {subsection}{\numberline {3.2}Stacks}{2}
+\contentsline {subsection}{\numberline {3.3}Queues}{2}
